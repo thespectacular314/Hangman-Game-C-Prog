@@ -11,7 +11,7 @@ This is a simple implementation of the classic Hangman game in C programming lan
 - **NOTE**
     * This is NOT the most EFFICIENT Code. I have tried to keep it as basic as possible. Meanwhile, I'll still try to make it a better one and commit an update within this repo.
 
-    * This is a part of my first-year project. If ANY mistakes are found please let me know. And ANY type of suggestions regarding this Project are welcomed.
+    * If ANY mistakes are found please let me know. And ANY type of suggestions regarding this Project are welcomed.
  
     * This project is yet to have a UI Implementation.
 
