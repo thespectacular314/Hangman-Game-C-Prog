@@ -5,7 +5,7 @@
 # include "HangamanC.h"
 
 int trials = 6, matchFound = 0, position = 0;
-int temp_var, win_var, lengthOfHangmanWord, i, fillBlanks, AlreadyGuessed, Generate_Random_Line, Player_choice, temp_len;
+int temp_var, win_var, lengthOfHangmanWord, i, fillBlanks, AlreadyGuessed, Generate_Random_Line, temp_len;
 char tempWord[100], Hangman_Output[100], AlphabetFromPlayer_2, disp_entered_alphabet[100] = "";
 
 void StartHangman()

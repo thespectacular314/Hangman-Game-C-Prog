@@ -2,8 +2,6 @@
 # include <stdlib.h>
 # include "HangamanC.h"
 
-int Player_choice;
-
 void ShowRules()
 {
     printf("RULES FOR MULTI-PLAYER: \n\n");
